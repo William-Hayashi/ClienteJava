@@ -7,8 +7,8 @@ import br.com.fiap.beans.Cliente;
 public class TesteVetor {
 	
 	//String
-	static String texto(String leitor) {
-		return JOptionPane.showInputDialog(leitor);
+	static String texto(String j) {
+		return JOptionPane.showInputDialog(j);
 	}
 	//Integer
 	static int inteiro(String j) {
